@@ -1,6 +1,5 @@
-## Backend Engineer - Technical Test
 
-The following test is used to give us an idea of your technical style and ability. Please use Elixir and/or Phoenix to complete the test. We would like a rough estimate of how long this task took you, but we would much prefer you submit something you are proud of and can easily talk about, rather than something done quickly.
+ Please use Elixir and/or Phoenix to complete the test. We would like a rough estimate of how long this task took you, but we would much prefer you submit something you are proud of and can easily talk about, rather than something done quickly.
 
 ### The exercise
 
@@ -15,13 +14,3 @@ Do not worry about:
 
 * Styling or layout
 
-### Submission
-
-To submit your solution, please either:
-
-* Put the code under source control, publicly host the repository on Github, and provide us a link, or
-* Email us a ZIP file including everything we would need to run it (excluding the downloaded data) to work@blend.media.
-
-Once we receive your submission, we will try to re-run it locally, and take a look at your code style. We'll then get back to your shortly to give you our feedback.
-
-Good luck!
