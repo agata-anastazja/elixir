@@ -18,6 +18,7 @@ defmodule PoliceRecordsWeb.Router do
 
     get "/", PageController, :index
     
+    resources "/users", UserController
     get "/all_records", AllRecordsController, :index
   end
 
