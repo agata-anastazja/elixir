@@ -13,6 +13,9 @@
 
 defmodule Seeds do
 
+  alias PoliceRecords.Crime
+
+
   def import_from_csv(csv_path) do
     File.stream!(Path.expand(csv_path))
     |> CSV.decode(separator: ?;, headers: true)
