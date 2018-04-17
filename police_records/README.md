@@ -15,3 +15,4 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
 
 Writing this I made a set of assumptions:
   - I can store data locally (otherwise I would go for something like [`this`](https://blog.agilion.com/decoding-a-hosted-csv-file-in-elixir-7aa0bb3f7468))
+  - none of the fields are required
